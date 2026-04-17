@@ -6,6 +6,14 @@ Scan your test files and instantly generate a rich HTML report with a health sco
 
 ---
 
+## Preview
+
+Sample report available [here](https://alwaysonlabs.github.io/cypress-test-intelligence/report.example.html).
+
+![Preview](assets/preview.gif)
+
+---
+
 ## Features
 
 - **No test run needed** — parses source files directly

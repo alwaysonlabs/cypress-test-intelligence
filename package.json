@@ -1,6 +1,6 @@
 {
   "name": "@alwaysonlabs/cypress-test-intelligence",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scan Cypress test files and generate insightful HTML reports with tag analysis, duplicate detection, and a full test explorer UI.",
   "author": "John Ringler",
   "main": "index.js",

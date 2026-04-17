@@ -8,7 +8,7 @@
   "theme": "dark",
   "sort": "alpha",
   "open": false,
-  "showSupportButton": false,
+  "showSupportButton": true,
   "showEnvironment": true,
   "showTags": true
 }
