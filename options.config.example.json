@@ -1,0 +1,14 @@
+{
+  "path": "cypress/e2e",
+  "exclude": "",
+  "output": "docs/report.example.html",
+  "title": "Cypress Test Intelligence",
+  "overviewText": "Static analysis report of your Cypress test suite — no test run required.",
+  "logo": "",
+  "theme": "dark",
+  "sort": "alpha",
+  "open": false,
+  "showSupportButton": false,
+  "showEnvironment": true,
+  "showTags": true
+}

@@ -1,0 +1,48 @@
+{
+  "name": "@alwaysonlabs/cypress-test-intelligence",
+  "version": "1.0.0",
+  "description": "Scan Cypress test files and generate insightful HTML reports with tag analysis, duplicate detection, and a full test explorer UI.",
+  "author": "John Ringler",
+  "main": "index.js",
+  "bin": {
+    "cypress-test-intelligence": "./bin/cypress-test-intelligence.js"
+  },
+  "files": [
+    "index.js",
+    "bin/",
+    "docs/",
+    "src/",
+    "assets/",
+    "options.config.example.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node bin/cypress-test-intelligence.js",
+    "demo": "node bin/cypress-test-intelligence.js --path ./cypress/e2e --open"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "cypress test",
+    "report",
+    "html",
+    "insights",
+    "test-explorer",
+    "tags",
+    "cypress/grep",
+    "metrics"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alwaysonlabs/cypress-test-intelligence"
+  },
+  "bugs": {
+    "url": "https://github.com/alwaysonlabs/cypress-test-intelligence/issues"
+  },
+  "homepage": "https://github.com/alwaysonlabs/cypress-test-intelligence#readme"
+}
